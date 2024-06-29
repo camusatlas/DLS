@@ -298,7 +298,7 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">898 814 </_DownRight>
+						<_DownRight type="a">1394 1201 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -369,7 +369,7 @@
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\betoc\Downloads\REPO_ADS2\VERSION_2\DLS\Venta_Mascotas\Venta_Mascotas</_fullName>
+			<_fullName type="a">C:\Users\betoc\Downloads\REPO_ADS2_2024-1\REPO1\DLS\Venta_Mascotas\Venta_Mascotas</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
