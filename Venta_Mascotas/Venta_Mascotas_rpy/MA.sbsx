@@ -25,11 +25,11 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-<<<<<<< HEAD
+
 			<_modifiedTimeWeak type="a">2.7.2020::7:20:12</_modifiedTimeWeak>
-=======
+
 			<_modifiedTimeWeak type="a">7.12.2017::5:7:41</_modifiedTimeWeak>
->>>>>>> a36a7948bd541435b01dcf03cc53a3d5214dcc65
+
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -37,15 +37,15 @@
 					<_hid type="a">GUID 004b5cbb-1250-40ac-a0e4-eee0e08d70f8</_hid>
 				</IHandle>
 			</_theMainDiagram>
-<<<<<<< HEAD
+
 			<_modifiedTime type="a">2.7.2020::7:39:4</_modifiedTime>
 			<_lastID type="a">9</_lastID>
 			<weakCGTime type="a">2.7.2020::7:20:12</weakCGTime>
-=======
+
 			<_modifiedTime type="a">7.12.2017::5:7:41</_modifiedTime>
 			<_lastID type="a">7</_lastID>
 			<weakCGTime type="a">2.7.2020::5:4:9</weakCGTime>
->>>>>>> a36a7948bd541435b01dcf03cc53a3d5214dcc65
+
 			<strongCGTime type="a">2.7.2020::5:5:57</strongCGTime>
 			<_defaultComposite type="s">GUID b2ba0d2f-5fe2-4938-99ae-ab849c2345d1</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -8690,7 +8690,7 @@
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
-=======
+
 		<CGIImageData type="e">
 			<_id type="a">GUID 08d366ba-8310-45c1-a954-7c4588aa5a40</_id>
 			<m_type type="a">0</m_type>
@@ -8699,7 +8699,7 @@
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s">GUID 27eace7a-c7e2-4daa-bdde-ee774853afcf</m_pParent>
->>>>>>> a36a7948bd541435b01dcf03cc53a3d5214dcc65
+
 			<m_name type="p">
 				<CGIText type="e">
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
@@ -8718,7 +8718,7 @@
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-<<<<<<< HEAD
+
 			<elementList type="a">33</elementList>
 			
 			<m_access type="a">'Z'</m_access>
@@ -11657,13 +11657,13 @@
 				</IHandle>
 			</m_srcExec>
 		</IMessage>
-=======
+
 			<m_dataSize type="a">3301</m_dataSize>
 			<m_data type="a">6d6#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G32G3c030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdfca28aa1e27f1159f847c3f79aa6a375159e9fa7c2f717Ic8M91468a5998fdG268f20f52eTec1dZG0158775f14fcI637324If88b41866889578e4d42256423a820b641afV2f8f3fY506fO1fb60eb9a858f87f56bcY47c339e431d9a69ce60d5b5785482bIdc0f9a147c060b190db7193c915e716ffb32f82f54579ef3c33a2ea17521df2dcdddRcf3cec7ab3T02Vc7b92735f4b85e1c9ca3cd5a5cbe4b57f3d8f2eaL91bda9abfe07ecae8de23d3fc4769f68d3af6d750b7dc57cdb699664c8ea3729233ed5715bMafc64d02c35dfd9e3515bef869e24d53U73c79ff47d3c86d3e5ce376fb46cc24b6305b6Xf423ad7e857fc13d3f6ee87f6b7f0d6a9a5eb90dae93f103c2fb46ada7Uc4c3344dc477Me79f2dY460925595876c9e2V326a9868fb44f9a3dfR36c3e3e351f235L7d2545Ge4515e39dc15f22ffc16dfe22dd781bf617bed3ad957cbf1a6b363e1cbP37157821p03d083f7bf7407d09afaeabe36ZG82eaf83aZGc49fS9cba959a46d6de11f10e9faf6a059b063b58Pd5d87a90645e2bb32fb7d669f36d7473e2afec656ec7Udf0e3578ede18557622aWG3a015ea5a5f89238edbef2f4afPbc2fe2efb204f981e739aedecbe23aa41f781fc6bf4c9c6cf43e5632d0f40f196bd190df32d55fd867e2c4df0b3fWQdf0f6ead14c91f8bae64Ycddc5bb68649919d243eT0c6703fda35e65e23f1face1b915d1ZGc13f7c1fa87c61ZG82837c31b7d3f6ZGc539a8b7Oaf18fdd48208d948cf62c6418cf5c1ae4c7462Sb539fbI6a327ed63cbdd1fbOPcd3a9a8727f5a757e647d6Hcfa8436a3f7b2c7173N5d82e4fe3593e2eb2d0fc73e19bed1f546Sbed375281edae60964465963M43020fb1ac7f8c5fb3d782ZG682d32d2cbc69e1bd2fc4969a7V6e2da2bd8f7ac3211b4b0e4724715e7fZG0ed2f80fZG44b3c23ff80a7fc6ae3cab56ddfc9112e6e96b1f92bfb61fec27e36fd87bc57a94b25acbaffc37f3e49b4df105P5963d3adcb6520ba504b21J42f9846d200e739af1ed3fc6d6fa8d9a4d6f7904d0c9ca4892a9571ec6bf72LZG82L7c03b9b778Lf853Wd9a19061e37b3dcae3dc1383K57fe0957fb39a2ed5f82ZG0fK47J34a4G57d5e1f89a31872d48b6fbe88f16a6533726Wd247e1fePacdef8e3c40da3f8774ed43c51ae050dfd9ba5446eaeJe9b99573b57a658f02bf5fbfW955fSac3fb1dfc35bcd6fc5571a74df11bc5ea8faa18ee5648f4d8549315a21cf3b324b11c1627a8c57a358ZGc12e3f679d2ee4cd6bY7bU96b311832c3a6ac6e47a6e1cd59ff876a7U86ebYb3c23ff80c7fc6b8f32ced62a1ece378c7aedafe26f84cba54a7cf2b37d3c8f698757b495f6c7716Xc7Q591493f8Lac6faf25Y0fec27Y8be15f8becfc41e1cf87fe1bd1f5ad398b5b5e5bJ5658490549073dc123f1af5830e6be7fddbe8dfccf5237fb449451454941451450014514500145145007Zd9</m_data>
 			<m_srcFile type="a">\images_analysis\entity.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">12.31.1969::19:0:0</m_fileModifiedTime>
 		</CGIImageData>
->>>>>>> a36a7948bd541435b01dcf03cc53a3d5214dcc65
+
 		<IClass type="e">
 			<_id type="a">GUID b2ba0d2f-5fe2-4938-99ae-ab849c2345d1</_id>
 			<_myState type="a">40960</_myState>
