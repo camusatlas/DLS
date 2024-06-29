@@ -2,20 +2,21 @@
 <RhapsodyArchive>
 	<MagicNumber></MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
-	<version>109.0.2</version>
+	<version>100.840.0</version>
 	<lang>*</lang>
-	<BuildNo>202303101727</BuildNo>
-	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	<BuildNo>9841247</BuildNo>
 	
 	<RHAPSODY-MODEL>
 	<CGEMdiWorkspace type="e">
 			<stubList type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</stubList>
 			<isLoadOnDemand type="a">0</isLoadOnDemand>
 			<myViewsWithID type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">11</size>
 					<CGEMdiDiagramParams type="e">
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
@@ -42,7 +43,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">662 354 </_DownRight>
-						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">10</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -72,9 +73,9 @@
 								<_hid type="a">GUID 5e6ce807-a4e2-458e-ae37-0ab5179ab954</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">21 0 </_UpLeft>
-						<_DownRight type="a">1159 593 </_DownRight>
-						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1139 593 </_DownRight>
+						<m_nDiagramIndex type="a">9</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -82,8 +83,8 @@
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">2</m_nFlags>
-								<m_showCmd type="a">3</m_showCmd>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
@@ -105,9 +106,9 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">2280 1488 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
+						<_DownRight type="a">1589 827 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -136,9 +137,9 @@
 								<_hid type="a">GUID e1a357ac-489f-4718-9dfb-aa62640f7692</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">178 30 </_UpLeft>
-						<_DownRight type="a">804 356 </_DownRight>
-						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<_UpLeft type="a">102 30 </_UpLeft>
+						<_DownRight type="a">728 356 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -170,7 +171,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">626 326 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -200,10 +201,106 @@
 								<_hid type="a">GUID 05184a3d-4557-4540-bbd5-833d31900d0e</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">80 140 </_UpLeft>
-						<_DownRight type="a">706 466 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">626 326 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">260</m_nLeft>
+								<m_nTop type="a">260</m_nTop>
+								<m_nRight type="a">919</m_nRight>
+								<m_nBottom type="a">835</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Venta_Mascotas_rpy\MantenimientoCategoria.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::MantenimientoCategoria</_hsubsystem>
+								<_hname type="a">DC Mantenimiento Categoria</_hname>
+								<_hid type="a">GUID 1cee4067-6421-47c6-bc5a-91ae1d4d9ee1</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">622 515 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">234</m_nLeft>
+								<m_nTop type="a">234</m_nTop>
+								<m_nRight type="a">893</m_nRight>
+								<m_nBottom type="a">809</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Venta_Mascotas_rpy\MantenimientoRaza.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::MantenimientoRaza</_hsubsystem>
+								<_hname type="a">DC Mantenimineto Raza</_hname>
+								<_hid type="a">GUID 90d06953-05b0-4448-ab90-e97220d0eeab</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">622 515 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">659</m_nRight>
+								<m_nBottom type="a">575</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\Venta_Mascotas_rpy\Producto.sbsx</_hfilename>
+								<_hsubsystem type="a">MA::Producto</_hsubsystem>
+								<_hname type="a">DC Mantenimiento Producto</_hname>
+								<_hid type="a">GUID 4676640d-263e-420f-9d5a-eba41849c331</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">898 814 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -233,8 +330,8 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1138 593 </_DownRight>
-						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<_DownRight type="a">1139 593 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -264,28 +361,31 @@
 								<_hid type="a">GUID d6a0ea23-99a4-4d32-97db-1b85d4233cf4</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">54 0 </_UpLeft>
-						<_DownRight type="a">1842 931 </_DownRight>
-						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1788 931 </_DownRight>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\CarlosAlonzoIngaCast\Desktop\Examen_ADSL\Venta_MAscota\Venta_Mascotas\Venta_Mascotas</_fullName>
+			<_fullName type="a">C:\Users\betoc\Downloads\REPO_ADS2\VERSION_2\DLS\Venta_Mascotas\Venta_Mascotas</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</m_SearchScopeList>
 			<bUsingBrowserCustomView type="a">1</bUsingBrowserCustomView>
 			<bApplyOnDiagrams type="a">0</bApplyOnDiagrams>
 			<liCustomViewIDs type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</liCustomViewIDs>
 			<mapOslcRmCollections type="c">
 				<IRPYRawContainer type="e">
+					<size type="a">0</size>
 				</IRPYRawContainer>
 			</mapOslcRmCollections>
 			<favoritesItem type="e">
@@ -299,6 +399,7 @@
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
 		<IRPYRawContainer type="e">
+			<size type="a">0</size>
 		</IRPYRawContainer>
 	</OslcLinks>
 
