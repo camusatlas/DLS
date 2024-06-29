@@ -11,11 +11,11 @@
 			<_id type="a">GUID b134bc80-a035-4570-ab4d-589d754f7bc7</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-<<<<<<< HEAD
+
 			<_modifiedTimeWeak type="a">2.7.2020::7:57:34</_modifiedTimeWeak>
-=======
+
 			<_modifiedTimeWeak type="a">7.12.2017::5:14:6</_modifiedTimeWeak>
->>>>>>> a36a7948bd541435b01dcf03cc53a3d5214dcc65
+
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -25,11 +25,11 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">2.7.2020::8:7:50</_modifiedTime>
 			<_lastID type="a">16</_lastID>
-<<<<<<< HEAD
+
 			<weakCGTime type="a">2.7.2020::7:57:34</weakCGTime>
-=======
+
 			<weakCGTime type="a">7.12.2017::5:14:6</weakCGTime>
->>>>>>> a36a7948bd541435b01dcf03cc53a3d5214dcc65
+
 			<strongCGTime type="a">2.7.2020::5:50:9</strongCGTime>
 			<_defaultComposite type="s">GUID a204b6ff-e3a7-454f-9d0f-2ff3e3380ff2</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
